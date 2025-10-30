@@ -19,20 +19,6 @@ Perfect for **prototypes, demos, or small apps**.
 
 ---
 
-## Project Structure
-.
-├── main.py              # FastAPI app
-├── Dockerfile           # Docker build
-├── requirements.txt     # Dependencies
-├── README.md            # This file
-├── .gitignore
-├── static/              # Uploaded images
-│   └── .gitkeep
-└── data/                # JSON data
-└── .gitkeep
-
-
----
 
 ## Quick Start (Local)
 
